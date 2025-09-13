@@ -431,7 +431,7 @@ body{
 
 .social-link:hover{
     background-color: var(--primary-color);
-    color: white;
+    color: var(--light-bg);
 }
 .footer-bottom{
     text-align: center;
