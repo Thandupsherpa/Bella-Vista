@@ -412,9 +412,9 @@ body{
     transition: var(--transition);
 }
 
-.footer-section a:hover{
+/* .footer-section a:hover{
     color: var(--primary-color);
-}
+} */
 .social-links{
     display: flex;
     gap: 1rem;
@@ -428,11 +428,11 @@ body{
     color: #2c3e50;
 
 }
-
 .social-link:hover{
     background-color: var(--primary-color);
-    color: var(--light-bg);
+    color:white;
 }
+
 .footer-bottom{
     text-align: center;
     padding-top: 2rem;
